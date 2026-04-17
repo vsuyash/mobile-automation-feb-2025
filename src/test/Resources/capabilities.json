@@ -1,0 +1,8 @@
+{
+  "android_device1": {
+    "platformName": "Android",
+    "appium:deviceName": "Pixel_6a_API_26_first",
+    "appium:automationName": "UIAutomator2",
+    "appium:platformVersion": "8"
+  }
+}

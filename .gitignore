@@ -1,0 +1,28 @@
+# Java build files
+*.class
+*.jar
+*.war
+
+# Exclude target directory
+target/
+
+# Exclude .classpath and other IDE-specific files
+.classpath
+.project
+.settings/
+
+# Exclude logs
+*.log
+
+# Exclude temporary files
+*.tmp
+
+# Test output
+test-output/
+
+# Local environment settings
+local.properties
+
+# Appium settings
+*.apk
+*.ipa
